@@ -10,12 +10,12 @@
 
 ## Mis Estudios y Hobbies
 * 🎓 Estudiante de Técnico Profesional en Informática en el **Instituto Dr. Genaro Muñoz Hernández**
-* 🎓 Estudio de Desarrollo web con **Platzi**
-* 📚 Me apasiona la lectura
-* 🧠 Puzzles y hacer ejercicio 🦾
+* 🎓 Cursos de Desarrollo web en linea con **Platzi**
+* 📚 Me encanta la lectura
+* 🧠 Los Puzzles y hacer ejercicio 🦾
 
 ## Contacto
 * [correo electronico](johnorellana36@gmail.com)
 * [Linkeding](linkedin.com/in/john-jesús-orellana-salazar-dev)
 
-### !Saludos y Gracias por pasarte por mi Aquí 🙃¡
+### !Saludos y Gracias por pasarte por mi Aquí🙃¡
