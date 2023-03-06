@@ -18,4 +18,4 @@
 * [correo electronico](johnorellana36@gmail.com)
 * [Linkeding](linkedin.com/in/john-jesús-orellana-salazar-dev)
 
-### !Saludos y Gracias por pasarte por mi perfil 🙃¡
+### !Saludos y Gracias por pasarte por mi Aquí 🙃¡
