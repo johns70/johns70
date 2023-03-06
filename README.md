@@ -6,10 +6,16 @@
  * JavaScript
  * NPM
  * React JS
- * Node.js,
- * Express y PostgreSQL.
+ 
 
-## Mis Estudios
-* 🎓 Estudiante de Técnico Profesional en Informática en el Instituto Dr. Genaro Muñoz Hernández
+## Mis Estudios y Hobbies
+* 🎓 Estudiante de Técnico Profesional en Informática en el **Instituto Dr. Genaro Muñoz Hernández**
+* 🎓 Estudio de Desarrollo web con **Platzi**
 * 📚 Me apasiona la lectura
-* 
+* 🧠 Puzzles y hacer ejercicio 🦾
+
+## Contacto
+* [correo electronico](johnorellana36@gmail.com)
+* [Linkeding](linkedin.com/in/john-jesús-orellana-salazar-dev)
+
+### !Saludos y Gracias por pasarte por mi perfil 🙃¡
