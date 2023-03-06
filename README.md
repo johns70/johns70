@@ -1,4 +1,4 @@
-# Hola,👋 Soy John un Programador **Javascript Developer**
+# Hola,👋 Soy John un  **Desarrollador web**
 
 ## Me dedico al Desarrollo de aplicaciones web con tecnologías como 
  * HTML5
